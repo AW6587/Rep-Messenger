@@ -5,10 +5,10 @@ Screenshots
 -----------
 ![Splash Page](Screenshots/splash_page.png "The splash page")
 ![Results](Screenshots/results.png "Search results")
-![Filter](Screenshots/filter.jpg "Filter")
-![Manage Templates](Screenshots/manage_templates.jpg "Manage templates")
-![New Email](Screenshots/new_email.jpg "New email")
-![Edit Tweet](Screenshots/edit_tweet.jpg "Edit tweet")
-![Example Automated Email](Screenshots/example_automated_email.jpg "Example automated email")
-![Example Automated Tweet](Screenshots/example_automated_tweet.jpg "Example automated tweet")
+![Filter](Screenshots/filter.png "Filter")
+![Manage Templates](Screenshots/manage_templates.png "Manage templates")
+![New Email](Screenshots/new_email.png "New email")
+![Edit Tweet](Screenshots/edit_tweet.png "Edit tweet")
+![Example Automated Email](Screenshots/example_automated_email.png "Example automated email")
+![Example Automated Tweet](Screenshots/example_automated_tweet.png "Example automated tweet")
 
