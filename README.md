@@ -4,7 +4,7 @@ An Android application, utilizes Google's Civic Information API to display elect
 Screenshots
 -----------
 ![Splash Page](Screenshots/splash_page.png "The splash page")
-![Results](Screenshots/results.jpg "Search results")
+![Results](Screenshots/results.png "Search results")
 ![Filter](Screenshots/filter.jpg "Filter")
 ![Manage Templates](Screenshots/manage_templates.jpg "Manage templates")
 ![New Email](Screenshots/new_email.jpg "New email")
