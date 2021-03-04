@@ -17,7 +17,7 @@
             android:padding="24dp">
 
             <TextView
-                android:id="@+id/textView_header"
+                android:id="@+id/textView_about_header"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:paddingBottom="10dp"
@@ -26,11 +26,21 @@
                 android:textStyle="bold" />
 
             <TextView
-                android:id="@+id/textView3"
+                android:id="@+id/textView_about_title"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="@string/large_text"
-                android:textSize="18sp" />
+                android:paddingBottom="4dp"
+                android:text="@string/about_title"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView_about_body"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/about_body"
+                android:textSize="16sp"
+                android:textColorLink="@color/colorPrimary"/>
         </LinearLayout>
     </ScrollView>
 
